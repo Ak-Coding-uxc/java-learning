@@ -1,0 +1,53 @@
+Bilkul AK! Main aasan aur simple **Hinglish** mein samjhaata hoon:
+
+---
+
+## 🔹 **Primitive Data Types** – Chhote, Seedhe Simple Types
+
+Ye **basic** data types hote hain jo Java ke andar already built-in hote hain.
+
+### ✅ Example:
+- `int` – numbers jaise 1, 2, 3
+- `float` – decimal waale numbers jaise 3.14
+- `char` – ek character jaise 'A', 'b'
+- `boolean` – true ya false
+- `byte`, `short`, `long`, `double` – aur bhi number types (chhote-bade)
+
+### 📌 Features:
+- Simple hote hain
+- Value ko direct store karte hain
+- Memory kam lete hain
+- Java inhe khud manage karta hai
+
+---
+
+## 🔸 **Non-Primitive Data Types** – Thode Advance, Object Wale
+
+Ye wo types hote hain jo **objects** hote hain ya **user-defined** types hote hain.
+
+### ✅ Example:
+- `String` – words/text jaise "Hello"
+- `Array` – values ka group jaise `{1, 2, 3}`
+- `Class`, `Interface` – apne banaye huye types
+
+### 📌 Features:
+- Complex hote hain
+- Object ke through kaam karte hain
+- Inme methods/functions bhi ho sakte hain
+- Zyada memory lete hain
+
+---
+
+### 🎯 Short Trick to Remember:
+
+| Type | Example         | Real-Life Example       |
+|------|------------------|-------------------------|
+| Primitive | `int a = 5;`     | Ek chhoti memory box mein sirf number |
+| Non-Primitive | `String s = "Hi";` | Ek box jismein text + tools dono |
+
+---
+
+Agar chhoti chhoti cheezein store karni hain — **primitive**.  
+Agar complex ya group waali cheez chahiye — **non-primitive**.
+
+Kuch aur confusion hai toh puchh lena 😄
